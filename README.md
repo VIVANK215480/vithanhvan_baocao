@@ -28,7 +28,7 @@ cần: 1 dll, 1 winform,1 web đăng nhập để hiển thị captcha khi nhậ
 - ![image](https://github.com/user-attachments/assets/6413f4c6-b557-4320-ad90-3be718655742)
 -  hoặc cũng có thể dùng FOR JSON PARTH
 -  ![image](https://github.com/user-attachments/assets/7bcf9f13-1ec4-48af-9008-1c54f2ad644c)
-- phần cứng rất quan trọng, tất nhiên, vì đơn giản nó là phải có, ví dụ thoi là cái cảm biến gì gì đấy, nó thu thập các dữ liệu liên tục từ bên ngoài, và gửi về cho CSDL, nên là nó là CSDL chính của mục đích.
+- phần cứng rất quan trọng, tất nhiên, vì đơn giản nó là phải có, ví dụ thoi là cái cảm biến gì gì đấy, nó thu thập các dữ liệu liên tục từ bên ngoài, và gửi về cho CSDL, nên là nó là CSDL chính của bài toán.
 - các bước tạo DLL độc lập nhưng tương tác được vs CSDL thì có các bước sau
     + tạo 1 libery tên là DLL
     + thêm cơ sở dữ liệu vào, bằng chuỗi kết nối, hoặc       gì gì đấy, với yêu cầu phải có CSDL.
